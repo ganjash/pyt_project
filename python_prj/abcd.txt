@@ -1,0 +1,1000 @@
+  493  ls
+  494  cd gtk
+  495  ls
+  496  ls my*
+  497  python
+  498  ls
+  499  ls my*
+  500  vi myapp.glade
+  501  gtk.path
+  502  pwd
+  503  cd
+  504  ls
+  505  pwd
+  506  exit
+  507  python
+  508  vi abc.py
+  509  python abc.py
+  510  vi abc.py
+  511  python abc.py
+  512  vi abc.py
+  513  python abc.py
+  514  exit
+  515  sudo aptitude install libgtk-2.0-dev
+  516  sudo apt -get  install libgtk-2.0-dev
+  517  sudo aptitude install libgtk-2.0-dev
+  518  history
+  519  sudo apt-get  install libgtk-2.0-dev
+  520  sudo aptitude install libgtk-2.0-dev
+  521  python
+  522  python3
+  523  history|cat >> hist.txt
+  524  vi hist.txt
+  525  python
+  526  vi base.py
+  527  python base.py]
+  528  python base.py
+  529  vi base.py
+  530  python base.py
+  531  exi
+  532  exit
+  533  uname
+  534  man uname
+  535  uname -a
+  536  sudo apt -get install gtk+
+  537  sudo  -get install gtk+
+  538  clear
+  539  gtk+
+  540  clear
+  541  exit
+  542  ifconfig
+  543  cd
+  544  pwd
+  545  ls
+  546  mkdir ~/bin
+  547  ls
+  548  PATH=~/bin:$PATH
+  549  curl curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+  550  sudo apt-get install curl
+  551  curl curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+  552  curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+  553  LS
+  554  ls
+  555  cd bin
+  556  ls
+  557  cd repo
+  558  vi repo
+  559  repo
+  560  sudo repo
+  561  cd ..
+  562  pwd
+  563  chmod a+x ~/bin/repo
+  564  ls -l ~/bin/repo
+  565  mkdir workdir
+  566  cd workdir
+  567  ls
+  568  $ repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  569  cd ..
+  570  ls
+  571  cd bin
+  572  ls
+  573  $ repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  574  $ ./repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  575  repo init -u
+  576  repo init
+  577  exit
+  578  ls
+  579  cd bin
+  580  ls
+  581  python repo
+  582  repo init
+  583  rep init
+  584  repo init
+  585  ls
+  586  repo install
+  587  repo init
+  588  init repo
+  589  sudo 
+  590  sudo init repo
+  591  sudo repo init
+  592  repo init
+  593  ls -l
+  594  repo init
+  595  ls
+  596  python repo
+  597  ./repo
+  598  repo init
+  599  vi repo
+  600  repo init
+  601  man repo
+  602  apt install repo
+  603  init repo
+  604  repo init
+  605  ls
+  606  ./repo
+  607  repo init
+  608  cd ..
+  609  repo init -u git://android.git.kernel.org/platform/manifest.git
+  610  sudo apt-get install curl
+  611  sudo apt-get install git
+  612  cd bin
+  613  ls
+  614  repo init
+  615  curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
+  616  ls
+  617  chmod a+x ~/bin/repo
+  618  ls -la
+  619  cd ..
+  620  ls
+  621  cd bin
+  622  repo init
+  623  vi repo
+  624  repo init
+  625  repo
+  626  cd ..
+  627  ls
+  628  PATH=~/bin:$PATH
+  629  repo init
+  630  cd Downloads
+  631  ls
+  632  cp repo ~/bin
+  633  cd ..
+  634  ls
+  635  cd bin
+  636  ls
+  637  repo init
+  638  cd ..
+  639  cd workdir
+  640  ls
+  641  repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  642  repo
+  643  repo init
+  644  git
+  645  repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  646  repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml 
+  647  repo
+  648  repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo- url=git://codeaurora.org/tools/repo.git
+  649  man repo
+  650  repo- url=git://codeaurora.org/tools/repo.git
+  651  ls
+  652  cd ..
+  653  ls
+  654  cd bin
+  655  ls
+  656  cd ..
+  657  ls
+  658  repo help url
+  659  repo help
+  660  repo init
+  661  repo
+  662  repo help status
+  663  repo init -u git://git://codeaurora.org/tools/repo.git
+  664  repo init -u git://codeaurora.org/tools/repo.git
+  665  ls
+  666  cd bin
+  667  ls
+  668  cd ..
+  669  cd workdir
+  670  ls
+  671  cd ..
+  672  mkdir androdir
+  673  cd androdir
+  674  repo init -u git://codeaurora.org/platform/manifest.git -b release -m M8960AAAAANLYA1519249.xml --repo-url=git://codeaurora.org/tools/repo.git
+  675  repo sync -j4
+  676  cd androdir
+  677  ls
+  678  ls -la
+  679  ls -lai
+  680  cd ..
+  681  ls
+  682  ls -lai
+  683  ls -rlai
+  684  ls -rli
+  685  clear
+  686  ls -ltr
+  687  pwd
+  688  ls
+  689  ls -ltr
+  690  vi Makefile
+  691  vi build/core/main.mk
+  692  ls -ltr
+  693  ls -ltr -f 9
+  694  ls -f 9-ltr
+  695  ls ltr| ls -f 9
+  696  ls -ltr|cat -t 9
+  697  ls -ltr|cat -f 9
+  698  man ls
+  699  man cat
+  700  cat -f ls
+  701  cat ls
+  702  ls|cat -f g
+  703  ls|cat -f 
+  704  ls -ltr
+  705  ls-tr
+  706  ls -tr
+  707  ls -t
+  708  ls -ltr
+  709  touch rudra.txt
+  710  cat>>rudra.txt
+  711  car rudra.txt]
+  712  car rudra.txt
+  713  cat rudra.txt
+  714  vi mon.sh
+  715  sh mon.sh
+  716  vi mon.sh
+  717  sh mon.sh
+  718  vi mon.sh
+  719  sh mon.sh
+  720  vi mon.sh
+  721  sh mon.sh
+  722  vi mon.sh
+  723  sh mon.sh
+  724  vi mon.sh
+  725  sh mon.sh
+  726  vi mon.sh
+  727  sh mon.sh
+  728  vi mon.sh
+  729  sh mon.sh
+  730  vi mon.sh
+  731  sh mon.sh
+  732  vi mon.sh
+  733  sh mon.sh
+  734  vi mon.sh
+  735  sh mon.sh
+  736  vi mon.sh
+  737  sh mon.sh
+  738  vi mon.sh
+  739  sh mon.sh
+  740  vi mon.sh
+  741  sh mon.sh
+  742  vi mon.sh
+  743  sh mon.sh
+  744  vi mon.sh
+  745  sh mon.sh
+  746  vi mon.sh
+  747  sh mon.sh
+  748  vi mon.sh
+  749  sh mon.sh
+  750  vi mon.sh
+  751  sh mon.sh
+  752  vi mon.sh
+  753  sh mon.sh
+  754  vi mon.sh
+  755  sh mon.sh
+  756  vi mon.sh
+  757  sh mon.sh
+  758  vi mon.sh
+  759  sh mon.sh
+  760  vi mon.sh
+  761  sh mon.sh
+  762  vi mon.sh
+  763  sh mon.sh
+  764  vi mon.sh
+  765  sh mon.sh
+  766  vi mon.sh
+  767  sh mon.sh
+  768  vi mon.sh
+  769  sh mon.sh
+  770  vi mon.sh
+  771  sh mon.sh
+  772  vi mon.sh
+  773  sh mon.sh
+  774  vi mon.sh
+  775  sh mon.sh
+  776  vi mon.sh
+  777  sh mon.sh
+  778  vi mon.sh
+  779  sh mon.sh
+  780  vi mon.sh
+  781  sh mon.sh
+  782  vi mon.sh
+  783  sh mon.sh
+  784  vi mon.sh
+  785  sh mon.sh
+  786  vi mon.sh
+  787  sh mon.sh
+  788  vi mon.sh
+  789  sh mon.sh
+  790  vi mon.sh
+  791  sh mon.sh
+  792  vi mon.sh
+  793  ls -l rudra.txt
+  794  date
+  795  vi mon.sh
+  796  sh mon.sh
+  797  vi mon.sh
+  798  sh mon.sh
+  799  vi mon.sh
+  800  cat>>rudra.txt
+  801  sh mon.sh
+  802  vi mon.sh
+  803  ps -ef
+  804  ps -ef|grep fork
+  805  vi mon.sh
+  806  ifconfig
+  807  EXIT
+  808  exit
+  809  ps -e
+  810  ps -e|more
+  811  ps -e
+  812  ps -e|grep firefox
+  813  ps -e|grep -f "4" firefox
+  814  ps -ely|wc
+  815  ps -e|wc
+  816  ps -e|wc -l
+  817  ps -ely|wc -l
+  818  ps -ely
+  819  ps -e|head +2
+  820  ps -e|head 2
+  821  ps -e|head -l 2
+  822  help head
+  823  man head
+  824  ps -e|head n 2
+  825  ps -e|head 
+  826  ps -ef|head 
+  827  ps -eF|head 
+  828  ps -ely|head 
+  829  ps ax
+  830  ps ax|head
+  831  ps -ejH|head
+  832  ps -ejH 2
+  833  ps -ejH 77
+  834  exit
+  835  sudo su
+  836  exi
+  837  exit
+  838  sudo su
+  839  exit
+  840  pwd
+  841  ls
+  842  cd androdir
+  843  ls
+  844  cd ..
+  845  ls -lart
+  846  cd androdir
+  847  ls
+  848  ls -lart
+  849  cd ..
+  850  du -sh
+  851  time
+  852  date
+  853  ls
+  854  pr mon.sh
+  855  cat mon.sh
+  856  vi mon.sh
+  857  ps
+  858  man ps
+  859  $set
+  860  echo $set
+  861  echo $BASH_VERSION
+  862  echo $HOME
+  863  echo $LOGNAME
+  864  echo $OSTYPE
+  865  echo $PATH
+  866  echo $SHELL
+  867  echo $USERNAME
+  868  echo $pwd
+  869  echo $PWD
+  870  echo $PASSWD4
+  871  echo $PASSWD
+  872  echo $passwd
+  873  passwd
+  874  d
+  875  locate passwd
+  876  vi /usr/bin/passwd
+  877  vi /etc/passwd
+  878  cd /usr/
+  879  cd /lib/security/
+  880  vi mkuer.default
+  881  ls
+  882  pwd
+  883  cd /usr/lib
+  884  cd security
+  885  vi mkuser.default
+  886  ls
+  887  vi classpath.security
+  888  cd
+  889  man rmuser
+  890  su
+  891  sudo su
+  892  rmuser
+  893  man rmuser
+  894  ls
+  895  sudo su
+  896  exit
+  897  sudo su
+  898  echo 6+3
+  899  expr 345*8324
+  900  expr 345 * 8324
+  901  expr 345 * 83
+  902  expr 3 * 8
+  903  man expr
+  904  expr 3 - 5
+  905  expr 3 * 5
+  906  expr 3 % 5
+  907  expr 3 / 5
+  908  expr 3 mul  5
+  909  man expr
+  910  expr 3 x 5
+  911  expr (3) * (5)
+  912  expr 3* 5
+  913  expr 3*5
+  914  expr 3 * 5
+  915  cd bin
+  916  ls
+  917  cd /bin
+  918  ls
+  919  vi sh
+  920  ls cs*
+  921  ls *sh
+  922  shell
+  923  sh
+  924  bash
+  925  ls -l /usr/bin
+  926  asedf
+  927  asdfew
+  928  echo -e "An apple a day keeps away \a\t\tdoctor\n"
+  929  echo "An apple a day keeps away \a\t\tdoctor\n"
+  930  echo -e "An apple a day keeps away \a\t\tdoctor\n"
+  931  expr 5 /* 3
+  932  expr 5 \* 3
+  933  cd
+  934  ls
+  935  cd Docu
+  936  cd Documents/
+  937  ls
+  938  tail -10 hello.cpp 
+  939  tail -1 hello.cpp 
+  940  cat hello.cpp | tail -1
+  941  cat hello.cpp | head + 1
+  942  cat hello.cpp | head +1
+  943  cat hello.cpp | head 1
+  944  cat hello.cpp | tail 1
+  945  cat hello.cpp | tail -1
+  946  cat hello.cpp | tail 1
+  947  cat hello.cpp | tail +1
+  948  cat hello.cpp | tail + 1
+  949  cat hello.cpp | head 1
+  950  cat hello.cpp | head +1
+  951  cat hello.cpp | head
+  952  cat hello.cpp | head +1
+  953  cat hello.cpp | head + 1
+  954  cat hello.cpp | tail 1
+  955  cat hello.cpp | tail -1
+  956  cat hello.cpp | tail +1
+  957  cd /
+  958  ls
+  959  cd etc
+  960  ls
+  961  cd calendar
+  962  ls
+  963  vi default
+  964  HELLO
+  965  help
+  966  clear
+  967  cls
+  968  firefox
+  969  sudo apt-get install git
+  970  exit
+  971  depkg --list|grep git
+  972  pwd
+  973  man git config
+  974  git config --global user.name "harsha"
+  975  git config --global user.email "sriharshaganja2@gmail.com"
+  976  git config --global credential.helper cache
+  977  touch README.md
+  978  git init
+  979  git add README.md
+  980  git commit -m "first commit on laptop"
+  981  CD \.GIT
+  982  cd \.git
+  983  ls
+  984  vi description
+  985  vi index
+  986  man git add
+  987  man git commit -m
+  988  git remote add origin https://github.com/ganjash/lappy.git
+  989  man git push -u origin master
+  990  git push -u origin master
+  991  ls
+  992  vi config
+  993  ls
+  994  cd refs
+  995  ls
+  996  vi heads
+  997  cd ..
+  998  ls
+  999  ls
+ 1000  vi README.md
+ 1001  git push -u origin master
+ 1002  git add README.md
+ 1003  man git commit -m "1st modification"
+ 1004  git commit -m "1st modification"
+ 1005  git push -u origin master
+ 1006  exit
+ 1007  man git pull
+ 1008  exit
+ 1009  pip list
+ 1010  python 
+ 1011  sudo apt-get install pip
+ 1012  sudo apt-get install python-pip
+ 1013  pip list
+ 1014  pip --help
+ 1015  pip install
+ 1016  mkdir pip
+ 1017  cd pip
+ 1018  pip install
+ 1019  mysql
+ 1020  oracle
+ 1021  sudo apt-get install oracle
+ 1022  sudo apt-get install mysql
+ 1023  sudo apt-get isntall SQLite
+ 1024  sudo apt-get install SQLite
+ 1025  sqlite
+ 1026  sudo apt-get install sqlite
+ 1027  sqlite
+ 1028  sudo pip install Django
+ 1029  python
+ 1030  ls
+ 1031  ls -ltr
+ 1032  cd pip
+ 1033  ls
+ 1034  cd ..
+ 1035  pip
+ 1036  pip help
+ 1037  pip help |more
+ 1038  mkdir django_work
+ 1039  cd django_work/
+ 1040  django-admin.py startproject mysite
+ 1041  ls
+ 1042  cd mysite
+ 1043  ls
+ 1044  vi manage.py
+ 1045  cd ..
+ 1046  cd mysite/mysite
+ 1047  ls
+ 1048  cd..
+ 1049  cd ../..
+ 1050  cd mysite
+ 1051  python manage.py runserver
+ 1052  python manage.py runserver 8080
+ 1053  ls
+ 1054  cd mysite
+ 1055  ls
+ 1056  vi settings.py
+ 1057  ls
+ 1058  vi settings.py
+ 1059  tree
+ 1060  sudo apt-get install tree
+ 1061  ls
+ 1062  ls -lart
+ 1063  ls my*
+ 1064  ls -lrt
+ 1065  cd django_work/
+ 1066  ls
+ 1067  cd mysite
+ 1068  ls
+ 1069  vi mysite/settings.py
+ 1070  sqlite
+ 1071  ls
+ 1072  vi manage.py
+ 1073  python manage.py syncdb
+ 1074  sqlite
+ 1075  vi mysite/settings.py
+ 1076  sqlite3
+ 1077  ls]
+ 1078  ls
+ 1079  sudo apt-get install sqlite3
+ 1080  sqlite
+ 1081  ls
+ 1082  rm db*
+ 1083  l
+ 1084  python manage.py syncdb
+ 1085  sqlite3
+ 1086  python manage.py startapp polls
+ 1087  ls
+ 1088  tree polls
+ 1089  vi polls/models.py 
+ 1090  vi mysite/settings.py
+ 1091  python manage.py sql polls
+ 1092  vi manage.py 
+ 1093  ls
+ 1094  python manage.py validate
+ 1095  python manage.py sqlcustom polls
+ 1096  python manage.py sqlclear polls
+ 1097  ls
+ 1098  python manage.py sqlclear polls
+ 1099  python manage.py sqlindexes polls
+ 1100  python manage.py sqlall polls
+ 1101  python manage.py syncdb
+ 1102  vi manage.py 
+ 1103  python manage.py shell
+ 1104  ls
+ 1105  ls polls
+ 1106  vi models.py
+ 1107  ls
+ 1108  vi polls/models.py
+ 1109  python manage.py shell]
+ 1110  python manage.py shell
+ 1111  cd django_work/
+ 1112  ls
+ 1113  cd mysite/
+ 1114  l
+ 1115  ls
+ 1116  iwconfig
+ 1117  ls
+ 1118  cd django_work/mysite/
+ 1119  ls
+ 1120  vi polls/models.py
+ 1121  python manage.py shell
+ 1122  ls
+ 1123  vi manage.py
+ 1124  cd mysite
+ 1125  ls
+ 1126  cd ..
+ 1127  cd ../..
+ 1128  ls
+ 1129  ls pip
+ 1130  cd pip
+ 1131  ls
+ 1132  cd ..
+ 1133  locate lappy
+ 1134  ls l*
+ 1135  pwd
+ 1136  cd device/
+ 1137  ls
+ 1138  cd ..
+ 1139  ls -d
+ 1140  ls -lk
+ 1141  cd workdir/
+ 1142  ls
+ 1143  ls -lart
+ 1144  cd ..
+ 1145  git clone http://github.com/ganjash/lappy.git
+ 1146  cd lappy
+ 1147  ls
+ 1148  cd ..
+ 1149  cp -R django_work/mysite/mysite lappy
+ 1150  cp -R django_work/mysite/polls lappy
+ 1151  cp -R django_work/mysite/mysite/settings.py lappy
+ 1152  cd lappy
+ 1153  ls
+ 1154  git push
+ 1155  git status
+ 1156  git add mysite/
+ 1157  git add polls/
+ 1158  git add settings.py
+ 1159  git commit -m "added django files"
+ 1160  git push
+ 1161  git status
+ 1162  exit
+ 1163  cd django_work/mysite/ls
+ 1164  cd django_work/mysite/
+ 1165  l
+ 1166  p
+ 1167  l
+ 1168  ls polls/
+ 1169  vi  polls/models.py
+ 1170  ls
+ 1171  cd django_work/mysite/
+ 1172  ls
+ 1173  python manage.py shell
+ 1174  ls
+ 1175  vi mysite/settings.py
+ 1176  ls
+ 1177  ls mysite/
+ 1178  cd ..
+ 1179  ls
+ 1180  locate templates
+ 1181  find ./ templates
+ 1182  vi ./mysite/mysite/urls.py
+ 1183  find ./ "templates"
+ 1184  ls -la
+ 1185  cd mysite/
+ 1186  ls
+ 1187  ls -la
+ 1188  ls
+ 1189  cd mysite/
+ 1190  ls
+ 1191  cd ..
+ 1192  exit
+ 1193  cd django_work/
+ 1194  ls
+ 1195  cd mysite/
+ 1196  ls
+ 1197  python manage.py runserver
+ 1198  python manage.py runserver 1.2.3.4.4:8080
+ 1199  python manage.py runserver http://1.2.3.4:8080
+ 1200  python manage.py runserver http://1.2.3.4:8000
+ 1201  python manage.py runserver http://1.2.3.4:8000/
+ 1202  python manage.py runserver http://0.0.0.0:8000/
+ 1203  python manage.py runserver 0.0.0.0:8000
+ 1204  python manage.py runserver 0.1.2.3.4:8000
+ 1205  python manage.py runserver 0.0.0.0:8000
+ 1206  python manage.py runserver 0.
+ 1207  python manage.py runserver 8000
+ 1208  exit
+ 1209  cd django_work/mysite/
+ 1210  ls
+ 1211  vi polls/admin.py
+ 1212  vi polls/models.py
+ 1213  vi polls/admin.py
+ 1214  vi polls/models.py
+ 1215  ls
+ 1216  vi mysite/settings.py
+ 1217  sudo pip install pytz
+ 1218  pytz
+ 1219  sudo pip install pytz
+ 1220  vi mysite/settings.py
+ 1221  vi polls/admin.py
+ 1222  ls
+ 1223  cd polls
+ 1224  ls
+ 1225  vi admin.py
+ 1226  ls
+ 1227  vi admin.py
+ 1228  exit
+ 1229  cd django_work/mysite/polls/
+ 1230  ls
+ 1231  vi models.py
+ 1232  ls
+ 1233  vi models.py
+ 1234  exit
+ 1235  shutdown
+ 1236  poweroff
+ 1237  su
+ 1238  SU
+ 1239  su
+ 1240  sudo poweroff
+ 1241  uname -m
+ 1242  sudo apt-get install libc6
+ 1243  sudo apt-get install libhtrack2
+ 1244  uname -m
+ 1245  uname -a
+ 1246  webhttrack
+ 1247  webhttrack 
+ 1248  exit
+ 1249  ls
+ 1250  mkdir python_prj
+ 1251  cd python_prj/
+ 1252  ls
+ 1253  vi prg1.py
+ 1254  cd /usr/local/python
+ 1255  cd /usr/local/
+ 1256  ls
+ 1257  cd src
+ 1258  ls
+ 1259  cd ..
+ 1260  cd bin
+ 1261  ls
+ 1262  cd ..
+ 1263  cd etc
+ 1264  ls
+ 1265  cd ..
+ 1266  ls
+ 1267  cd src
+ 1268  ls
+ 1269  cd
+ 1270  cd /usr/local/bin/
+ 1271  ls
+ 1272  locate python|more
+ 1273  cd /etc/
+ 1274  ls
+ 1275  ls p*
+ 1276  cd
+ 1277  python -c .help
+ 1278  python -c "help()"
+ 1279  python help
+ 1280  python help()
+ 1281  python 'help'
+ 1282  python 'help()'
+ 1283  python -c 'help()'
+ 1284  man python -m
+ 1285  python -
+ 1286  python
+ 1287  .profile
+ 1288  vi .profile
+ 1289  man .profile
+ 1290  PYTHONSTARTUP
+ 1291  path
+ 1292  echo $PATH
+ 1293  cd python_prj/
+ 1294  ls
+ 1295  vi prg1.py
+ 1296  PYTHONSTARTUP  = $PYTHONSTARTUP :/home/g/python_prj/prg1.py 
+ 1297  $PYTHONSTARTUP  = $PYTHONSTARTUP :/home/g/python_prj/prg1.py 
+ 1298  $PYTHONSTARTUP  = $PYTHONSTARTUP
+ 1299  EXPORT $PYTHONSTARTUP = $PYTHONSTARTUP:/prg1.py
+ 1300  EXPORT PYTHONSTARTUP = $PYTHONSTARTUP:/prg1.py
+ 1301  export PYTHONSTARTUP = $PYTHONSTARTUP:/prg1.py
+ 1302  ~/.bashrc
+ 1303  su
+ 1304  sudo vi ~/.bashrc
+ 1305  printenv
+ 1306  printenv |more
+ 1307  export PYTHONSTARTUP=${PYTHONSTARTUP}:${HOME}/python_prj/prg1.py
+ 1308  echo $PYTHONSTARTUP
+ 1309  python
+ 1310  ls -la|grep python
+ 1311  ls -la|grep .python
+ 1312  ls -la|grep ".python*"
+ 1313  ls -la|more
+ 1314  locate .pythonstartup|more
+ 1315  find . ".pythonstartup"
+ 1316  find ./ ".pythonstartup"
+ 1317  cd python_prj/
+ 1318  vi prg1.py 
+ 1319  python prg1.py 
+ 1320  vi prg1.py 
+ 1321  python prg1.py 
+ 1322  locate PYTHONSTARTUP
+ 1323  python
+ 1324  echo $PYTHONSTARTUP
+ 1325  export PYTHONSTARTUP=$HOME/python_prj
+ 1326  python
+ 1327  cd ..
+ 1328  python -m "prg1"
+ 1329  python -m "prg1.py"
+ 1330  python prg1.py
+ 1331  vi python_prj/prg1.py 
+ 1332  mv python_prj/prg1.py python_prj/.pystartup
+ 1333  python
+ 1334  vi python_prj/.pystartup 
+ 1335  python
+ 1336  cd python_prj/
+ 1337  ls
+ 1338  mv .pystartup prg1.py
+ 1339  ls
+ 1340  cd
+ 1341  python
+ 1342  cd python_prj/
+ 1343  ls
+ 1344  vi prg1.py 
+ 1345  cd
+ 1346  python
+ 1347  cd
+ 1348  ls
+ 1349  python
+ 1350  $PYTHONSTARTUP
+ 1351  echo $PYTHONSTARTUP
+ 1352  env
+ 1353  python
+ 1354  s
+ 1355  ls
+ 1356  vi python_prj/
+ 1357  cd python_prj/
+ 1358  ls
+ 1359  vi prg1.py 
+ 1360  python
+ 1361  vi prg1.py 
+ 1362  python prg1.py
+ 1363  vi prg1.py 
+ 1364  python prg1.py|more
+ 1365  vi prg1.py 
+ 1366  python prg1.py|more
+ 1367  vi prg1.py 
+ 1368  python prg1.py|more
+ 1369  clear
+ 1370  vi prg1.py 
+ 1371  python
+ 1372  clear
+ 1373  .
+ 1374  clear
+ 1375  cd
+ 1376  python
+ 1377  exit
+ 1378  python
+ 1379  vi prg2.py
+ 1380  vi prg2.py 
+ 1381  python prg2.py
+ 1382  vi prg2.py 
+ 1383  mv prg2.py python_prj/
+ 1384  cd python_prj/
+ 1385  ls
+ 1386  python
+ 1387  ls
+ 1388  prg2.py
+ 1389  python prg2.py
+ 1390  vi prg2.py
+ 1391  python prg2.py 6
+ 1392  vi prg2.py
+ 1393  python prg2.py 6
+ 1394  vi prg2.py
+ 1395  python prg2.py 6
+ 1396  python prg2.py 6
+ 1397  vi prg2.py
+ 1398  python prg2.py 6
+ 1399  vi prg2.py
+ 1400  python prg2.py 6
+ 1401  vi prg2.py
+ 1402  python prg2.py 6
+ 1403  vi prg2.py
+ 1404  python prg2.py 6
+ 1405  vi prg2.py
+ 1406  python prg2.py 6
+ 1407  vi prg2.py
+ 1408  python prg2.py 6
+ 1409  vi prg2.py
+ 1410  python prg2.py 6
+ 1411  vi prg2.py
+ 1412  python prg2.py 6
+ 1413  vi prg2.py
+ 1414  python prg2.py 6
+ 1415  6
+ 1416  python prg2.py 6
+ 1417  f
+ 1418  exit
+ 1419  python _
+ 1420  python -c _
+ 1421  python -c '_'
+ 1422  python
+ 1423  python -c 'abs(1+ij)'
+ 1424  python -c 'abs(1+j)'
+ 1425  python -c 'abs(1+1j)'
+ 1426  python -c 'print "':'+abs(1+1j)"
+ 1427  s
+ 1428  s
+ 1429  sdavdfb
+ 1430  print
+ 1431  print 'asd'
+ 1432  python -c 'print :,abs(1+1j)'
+ 1433  python -c 'print ":",abs(1+1j)'
+ 1434  python
+ 1435  cd python_prj/
+ 1436  ls
+ 1437  vi prg4.py
+ 1438  python
+ 1439  ls
+ 1440  cd python_prj/
+ 1441  ls
+ 1442  vi prg2.py
+ 1443  python prg2.py 5
+ 1444  vi prt2.py
+ 1445  vi prg2.py
+ 1446  python prg2.py 5
+ 1447  vi prg2.py
+ 1448  python prg2.py 5
+ 1449  vi prg2.py
+ 1450  python prg2.py 5
+ 1451  vi prg2.py
+ 1452  python prg2.py 5
+ 1453  vi prg2.py
+ 1454  python prg2.py 5
+ 1455  python
+ 1456  vi prg2.py
+ 1457  python prg2.py 5
+ 1458  python
+ 1459  ls
+ 1460  vi prg3.py
+ 1461  python prg3.py
+ 1462  vi prg3.py
+ 1463  python prg3.py
+ 1464  vi prg3.py
+ 1465  python
+ 1466  vi prg3.py 
+ 1467  python
+ 1468  python prg3.py
+ 1469  vi prg3.py 
+ 1470  cd python_prj/
+ 1471  ls
+ 1472  python
+ 1473  ls
+ 1474  vi prg4.py
+ 1475  python
+ 1476  ls
+ 1477  vi prg4.py
+ 1478  python
+ 1479  ls
+ 1480  vi prg4.py
+ 1481  python
+ 1482  echo $PYTHONPATH
+ 1483  python
+ 1484  export PYTHONSTARTUP
+ 1485  echo PYTHONSTARTUP
+ 1486  export PYTHONSTARTUP = {}
+ 1487  export PYTHONSTARTUP = {PYTHONSTARTUP}
+ 1488  echo PYTHONSTARTUP
+ 1489  echo $PYTHONSTARTUP
+ 1490  export PYTHONSTARTUP = $PYTHONSTARTUP:{$HOME/g/python_prj/prg4
+ 1491  export PYTHONSTARTUP = $PYTHONSTARTUP:{$HOME/g/python_prj/prg4}
+ 1492  history >> abcd.txt
